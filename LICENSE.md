@@ -1,4 +1,4 @@
-# 
+# Oficial GitHub Desktop plantillas para Mac OS | Mejor GitHub Desktop plantillas para PC Windows. Con pruebas automatizadas y soporte de submódulos — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
